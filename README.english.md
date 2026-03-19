@@ -1,4 +1,5 @@
-# Finance Ops Mock Close Pack — Iberia Services S.L. | Month-End Close Simulation | 2026-02
+# Finance Ops Close Pack — Iberia Services S.L.
+## Portfolio project | Month-end close simulation | 2026-02
 
 ![Portfolio Project](https://img.shields.io/badge/Portfolio_Project-Finance_Ops-blue)
 ![Month-End Close](https://img.shields.io/badge/Month--End_Close-2026--02-1f6feb)
