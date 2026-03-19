@@ -1,4 +1,5 @@
-# Finance Ops Close Pack — Iberia Services S.L. | Simulación de Cierre Mensual | 2026-02
+# Finance Ops Close Pack — Iberia Services S.L.
+## Proyecto de portfolio | Simulación de cierre mensual | 2026-02
 
 ![Proyecto Portfolio](https://img.shields.io/badge/Proyecto_Portfolio-Finance_Ops-blue)
 ![Cierre Mensual](https://img.shields.io/badge/Cierre_Mensual-2026--02-1f6feb)
