@@ -20,7 +20,7 @@ This project was designed to show how a close can be managed with **integrity ch
 - [Scope](#scope)
 - [Objective](#objective)
 - [What This Project Demonstrates](#what-this-project-demonstrates)
-- [Mock Close Outcome](#mock-close-outcome)
+- [Simulation Close Outcome](#simulation-close-outcome)
 - [Key Controls Executed](#key-controls-executed)
 - [Issues Identified and Resolved](#issues-identified-and-resolved)
 - [Repository Structure](#repository-structure)
@@ -95,7 +95,7 @@ In other words, this repository is not just about “knowing accounting”. It i
 
 ---
 
-## Mock Close Outcome
+## Simulation Close Outcome
 
 | Metric | Result |
 |---|---:|
@@ -147,7 +147,7 @@ The intention is to show not only the reconciliation result, but also the **oper
 ## Repository Structure
 
 ```text
-finance-ops-mock-close-spanish-entity-2026-02/
+finance-ops-close-pack/
 │
 ├── README.md
 ├── 01_Integrity/
