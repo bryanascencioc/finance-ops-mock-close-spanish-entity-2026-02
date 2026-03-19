@@ -202,11 +202,27 @@ This sequence mirrors how a controlled close would usually be reviewed by a team
 ## Screenshots
 
 ![Close Checklist](03_Mock_Close_Pack/Key_Screenshots/close_checklist.png)
+<img width="1329" height="187" alt="image" src="https://github.com/user-attachments/assets/d48feb32-40b4-46a1-8241-fa7c1429baef" />
+
 ![AR Tie-out](03_Mock_Close_Pack/Key_Screenshots/ar_tieout.png)
+<img width="476" height="240" alt="image" src="https://github.com/user-attachments/assets/0c78d0ae-dc01-4eb6-92d5-e2c35d1a87fb" />
+
 ![Bank Reconciliation](03_Mock_Close_Pack/Key_Screenshots/bank_rec.png)
+<img width="464" height="254" alt="image" src="https://github.com/user-attachments/assets/38b94c45-0345-4f57-96a1-a7c66e50435d" />
+
 ![Issue Log](03_Mock_Close_Pack/Key_Screenshots/issue_log.png)
+<img width="1215" height="261" alt="image" src="https://github.com/user-attachments/assets/5a4ca920-a91a-482a-8525-1619318a3a59" />
+<img width="1202" height="278" alt="image" src="https://github.com/user-attachments/assets/d245e95f-835c-4c0b-9e48-a0e1eac9d653" />
+
+
 ![JE Log](03_Mock_Close_Pack/Key_Screenshots/je_log.png)
+<img width="1210" height="272" alt="image" src="https://github.com/user-attachments/assets/ba7d27d2-84fc-4631-a9a5-60d55924f549" />
+<img width="1277" height="330" alt="image" src="https://github.com/user-attachments/assets/0dbff596-d005-462f-9b31-baa87c11c8f4" />
+
+
 ![Signoff Memo](03_Mock_Close_Pack/Key_Screenshots/signoff_memo.png)
+<img width="751" height="536" alt="image" src="https://github.com/user-attachments/assets/092615b6-c235-4f7e-98f0-fc038d972335" />
+<img width="1250" height="499" alt="image" src="https://github.com/user-attachments/assets/aa8e08a2-913e-4f98-b701-a504d1ae6403" />
 
 ---
 
