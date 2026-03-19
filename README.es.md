@@ -1,4 +1,4 @@
-[English](README.en.md) 
+[English](README.md) 
 # Finance Ops Close Pack — Iberia Services S.L.
 ## Proyecto de portfolio | Simulación de cierre mensual | 2026-02
 
