@@ -144,6 +144,7 @@ The intention is to show not only the reconciliation result, but also the **oper
 
 ## Repository Structure
 
+```text
 finance-ops-mock-close-spanish-entity-2026-02/
 │
 ├── README.md
@@ -171,7 +172,7 @@ finance-ops-mock-close-spanish-entity-2026-02/
 │   └── Signoff_Memo.md
 └── 09_Evidence/
     └── Evidence_Index.xlsx
-
+```
 ---
 
 ## Suggested Review Path
