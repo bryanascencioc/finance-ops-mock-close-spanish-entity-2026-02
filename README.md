@@ -227,8 +227,8 @@ This sequence mirrors how a controlled close would usually be reviewed by a team
 
 ![Signoff Memo](03_Mock_Close_Pack/Key_Screenshots/signoff_memo.png)
 
-<img width="751" height="536" alt="image" src="https://github.com/user-attachments/assets/092615b6-c235-4f7e-98f0-fc038d972335" />
-<img width="1250" height="499" alt="image" src="https://github.com/user-attachments/assets/aa8e08a2-913e-4f98-b701-a504d1ae6403" />
+<img width="736" height="546" alt="image" src="https://github.com/user-attachments/assets/49d579f1-56ee-4840-af70-88173537ed39" />
+<img width="1237" height="478" alt="image" src="https://github.com/user-attachments/assets/ef674c25-b1e4-45e9-9766-b4f7b1b92654" />
 
 ---
 
