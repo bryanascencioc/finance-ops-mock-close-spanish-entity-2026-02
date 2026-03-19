@@ -2,11 +2,11 @@
 # Finance Ops Close Pack — Iberia Services S.L.
 ## Proyecto de portfolio | Simulación de cierre mensual | 2026-02
 
-![Proyecto Portfolio](https://img.shields.io/badge/Proyecto_Portfolio-Finance_Ops-blue)
-![Cierre Mensual](https://img.shields.io/badge/Cierre_Mensual-2026--02-1f6feb)
-![Entidad](https://img.shields.io/badge/Entidad-Empresa_Espanola_Mediana-darkgreen)
-![Cobertura](https://img.shields.io/badge/Cobertura-AR%20%7C%20AP%20%7C%20Tesoreria%20%7C%20R2R%20%7C%20IVA-orange)
-![Estado](https://img.shields.io/badge/Estado-Listo_para_Signoff-success)
+![Proyecto de portfolio](https://img.shields.io/badge/Proyecto%20de%20portfolio-Finance%20Ops-blue)
+![Cierre mensual](https://img.shields.io/badge/Cierre%20mensual-2026--02-1f6feb)
+![Entidad](https://img.shields.io/badge/Entidad-Empresa%20espa%C3%B1ola%20mediana-darkgreen)
+![Cobertura](https://img.shields.io/badge/Cobertura-AR%20%7C%20AP%20%7C%20Tesorer%C3%ADa%20%7C%20R2R%20%7C%20IVA-orange)
+![Estado](https://img.shields.io/badge/Estado-Listo%20para%20aprobaci%C3%B3n%20final-success)
 
 Simulación práctica de **cierre mensual** para una **única entidad española de tamaño mediano**, creada para demostrar capacidad operativa en **AR, AP, Tesorería, R2R e IVA** dentro de un entorno controlado de Finance Operations.
 
@@ -20,7 +20,7 @@ Este proyecto fue diseñado para mostrar cómo puede gestionarse un cierre con *
 - [Alcance](#alcance)
 - [Objetivo](#objetivo)
 - [Qué Demuestra Este Proyecto](#qué-demuestra-este-proyecto)
-- [Resultado del Mock Close](#resultado-del-mock-close)
+- [Resultado del cierre simulado](#resultado-del-cierre-simulado)
 - [Controles Clave Ejecutados](#controles-clave-ejecutados)
 - [Incidencias Identificadas y Resueltas](#incidencias-identificadas-y-resueltas)
 - [Estructura del Repositorio](#estructura-del-repositorio)
@@ -28,8 +28,9 @@ Este proyecto fue diseñado para mostrar cómo puede gestionarse un cierre con *
 - [Capturas](#capturas)
 - [Competencias Demostradas](#competencias-demostradas)
 - [Por Qué Esto Importa](#por-qué-esto-importa)
-- [Notas para Recruiters](#notas-para-recruiters)
+- [Notas para selección](#notas-para-selección)
 - [Descargo de Responsabilidad](#descargo-de-responsabilidad)
+- [Nota final](#Nota-fina)
 
 ---
 
@@ -95,7 +96,7 @@ En otras palabras, este repositorio no trata solo de “saber contabilidad”. T
 
 ---
 
-## Resultado del Mock Close
+## Resultado del cierre simulado
 
 | Métrica | Resultado |
 |---|---:|
@@ -148,7 +149,7 @@ La intención es mostrar no solo el resultado de la conciliación, sino también
 ## Estructura del Repositorio
 
 ```text
-finance-ops-mock-close-spanish-entity-2026-02/
+finance-ops-close-pack/
 │
 ├── README.md
 ├── 01_Integrity/
@@ -203,12 +204,12 @@ Esta secuencia refleja cómo un cierre controlado sería normalmente revisado po
 
 ---
 
-Capturas
-Checklist de cierre
+## Capturas
+### Checklist de cierre
 
 <img width="1329" height="187" alt="image" src="https://github.com/user-attachments/assets/d48feb32-40b4-46a1-8241-fa7c1429baef" />
 
-Tie-out AR
+### Tie-out AR
 
 <img width="476" height="240" alt="image" src="https://github.com/user-attachments/assets/0c78d0ae-dc01-4eb6-92d5-e2c35d1a87fb" />
 
@@ -216,62 +217,46 @@ Conciliación Bancaria
 
 <img width="464" height="254" alt="image" src="https://github.com/user-attachments/assets/38b94c45-0345-4f57-96a1-a7c66e50435d" />
 
-Issue Log
+### Registro de incidencias
 
 <img width="1215" height="261" alt="image" src="https://github.com/user-attachments/assets/5a4ca920-a91a-482a-8525-1619318a3a59" />
 <img width="1202" height="278" alt="image" src="https://github.com/user-attachments/assets/d245e95f-835c-4c0b-9e48-a0e1eac9d653" />
 
-JE Log
+### JE Log
 
 <img width="1210" height="272" alt="image" src="https://github.com/user-attachments/assets/ba7d27d2-84fc-4631-a9a5-60d55924f549" />
 <img width="1277" height="330" alt="image" src="https://github.com/user-attachments/assets/0dbff596-d005-462f-9b31-baa87c11c8f4" />
 
-Memo Signoff
+### Memo de aprobación final
 
 <img width="736" height="546" alt="image" src="https://github.com/user-attachments/assets/49d579f1-56ee-4840-af70-88173537ed39" />
 <img width="1237" height="478" alt="image" src="https://github.com/user-attachments/assets/ef674c25-b1e4-45e9-9766-b4f7b1b92654" />
 
 ---
 
-## Competencias Demostradas
+## Competencias demostradas
 
-Finance Operations / Contabilidad
+### Finance Operations y contabilidad
+- lógica de cierre en AR, AP, Tesorería, R2R e IVA
+- conciliaciones subledger a GL
+- revisión de cuentas de control
+- soporte de accruals y reclasificaciones
+- análisis de discrepancias y clasificación de causa raíz
+- lógica de aprobación final y gobernanza de cierre
 
-lógica de cierre en AR, AP, Tesorería, R2R e IVA
+### Proceso y control
+- responsabilidad sobre incidencias y lógica de escalado
+- disciplina de checklist de cierre
+- indexación de evidencia y trazabilidad
+- seguimiento de pendientes
+- distinción entre diferencias temporales y errores reales
+- documentación lista para revisión
 
-conciliaciones subledger a GL
-
-revisión de cuentas de control
-
-soporte de accruals y reclasificaciones
-
-análisis de discrepancias y clasificación de causa raíz
-
-lógica de signoff y gobernanza de cierre
-
-Proceso y Control
-
-ownership de incidencias y lógica de escalado
-
-disciplina de checklist de cierre
-
-indexación de evidencia y trazabilidad
-
-seguimiento de pendientes
-
-distinción entre diferencias temporales y errores reales
-
-documentación lista para revisión
-
-Herramientas y Forma de Trabajo
-
-packs de control basados en Excel
-
-lógica de reporting ERP inspirada en SAP FI / NetSuite / Odoo
-
-documentación estructurada de cierre
-
-presentación de evidencia con nivel portfolio
+### Herramientas y forma de trabajo
+- packs de control basados en Excel
+- lógica de reporting ERP inspirada en SAP FI / NetSuite / Odoo
+- documentación estructurada de cierre
+- presentación de evidencia con nivel portfolio
 
 ---
 
@@ -291,7 +276,7 @@ preparación para operar en un entorno de cierre controlado desde el primer día
 
 ---
 
-## Notas para Recruiters
+## Notas para selección
 
 Este repositorio es especialmente relevante para roles como:
 
